@@ -40,7 +40,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/amazon-homepage-clone.git
+git clone (https://jabir-05.github.io/Amazon-clone-using-HTML-and-CSS/)
 cd amazon-homepage-clone
 Open index.html in your browser
 
